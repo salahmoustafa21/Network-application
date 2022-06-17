@@ -1,7 +1,7 @@
 # Network application
 Een netwerkapplicatie with pingfunction, traceroute and a port scan.
 
-ATTENTION: This program only works under Golang in Linux.
+ATTENTION: This program only works under Golang in Linux. It will crash under Windows.
 
 How to use the program:
 1. Start the program.
